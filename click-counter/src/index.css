@@ -12,3 +12,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+
+.answer {
+  background-color: #F0f7fd;
+  margin-bottom: 20px;
+  cursor: pointer;
+  padding: 23px 30px 15px 15px;
+}
+
+.answer:hover {
+  background-color: #d0e3f0;
+}
